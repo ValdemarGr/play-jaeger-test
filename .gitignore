@@ -1,0 +1,14 @@
+compiler.sbt
+
+.idea
+target
+logs
+
+node_modules
+cerno-full/\.jvmopts
+
+workbench/\.jvmopts
+
+cerno-full/jvm/conf/application\.conf
+
+**/.hydra
