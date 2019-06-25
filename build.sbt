@@ -14,7 +14,7 @@ libraryDependencies += "org.scalatestplus.play" %% "scalatestplus-play" % "4.0.2
 libraryDependencies += "mysql" % "mysql-connector-java" % "5.1.47"
 libraryDependencies += "io.opentracing.contrib" % "opentracing-jdbc" % "0.1.3"
 libraryDependencies += "com.typesafe.play" %% "play-slick" % "5.0.0-M2"
-
+libraryDependencies += "com.github.stijndehaes" %% "play-prometheus-filters" % "0.5.0"
 
 // Adds additional packages into Twirl
 //TwirlKeys.templateImports += "test.controllers._"
